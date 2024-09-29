@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Gaurab Lohani</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurablohani01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lohanigaurab01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gaurablohani01" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lohanigaurab01" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -67,23 +67,23 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurablohani01&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurablohani01" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurablohani01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lohanigaurab01&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohanigaurab01" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lohanigaurab01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <h3 align="center">Statistics:</h3>
 <div align="center">
-  <a href="https://github.com/gaurablohani01">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurablohani01&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurablohani01&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurablohani01&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurablohani01&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurablohani01&theme=2077" height="180em" />
+  <a href="https://github.com/lohanigaurab01">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohanigaurab01&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lohanigaurab01&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohanigaurab01&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lohanigaurab01&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohanigaurab01&theme=2077" height="180em" />
   </a>
 </div>
 
 <h3 align="center">⚡ Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurablohani01&theme=default" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohanigaurab01&theme=default" alt="Activity Graph" />
 </p>
