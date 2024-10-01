@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Gaurab Lohani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohanigaurab01&label=Profile%20views&color=0e75b6&style=flat" alt="lohanigaurab01" /> </p>
 
@@ -10,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lohani_gaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lohani_gaurab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurab-lohani-683329312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurab-lohani-683329312" height="30" width="40" /></a>
 <a href="https://fb.com/gaurablohani.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurablohani.py" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurablohani.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurablohani.py" height="30" width="40" /></a>
 </p>
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lohanigaurab01&show_icons=true&locale=en" alt="lohanigaurab01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohanigaurab01&" alt="lohanigaurab01" /></p>
+
