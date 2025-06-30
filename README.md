@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Gaurab Lohani</h1>
-<h3 align="center">Beginner Python Developer</h3>
+<h3 align="center"> Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurablohani01&label=Profile%20views&color=0e75b6&style=flat" alt="gaurablohani01" /> </p>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lohani_gaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lohani_gaurab" height="30" width="40" /></a>
+<a href="https://twitter.com/gaurablohani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lohani_gaurab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurab-lohani-683329312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurab-lohani-683329312" height="30" width="40" /></a>
 <a href="https://fb.com/gaurablohani.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurablohani.py" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurablohani.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurablohani.py" height="30" width="40" /></a>
